@@ -29,7 +29,14 @@
 
 ## الاشتراك
 
-تجربة مجانية 14 يوم بكل المزايا، وبعدها اشتراك سنوي بـ **350 ريال**.
+تجربة مجانية 14 يوم بكل المزايا، وبعدها تختار الباقة اللي تناسبك:
+
+| الباقة | السعر |
+|---|---|
+| شهر واحد | 40 ريال |
+| سنة واحدة | **350 ريال** |
+| سنتان | 650 ريال |
+| 3 سنوات | 950 ريال |
 
 للشراء: واتساب [0599020865](https://api.whatsapp.com/send?phone=966599020865) أو البريد hani.khairallah@outlook.com
 
@@ -42,7 +49,7 @@
 Read any QR code or barcode on your screen just by resting the mouse on it. Windows 10/11 (x64).
 
 - Download the installer from [Releases](https://github.com/hanzoo84/QR-Sahel/releases/latest).
-- 14-day full trial, then a yearly subscription (350 SAR).
+- 14-day full trial, then a plan: 1 month 40 SAR · 1 year 350 SAR · 2 years 650 SAR · 3 years 950 SAR.
 - This repository hosts the installers and release notes only.
 
 © 2026 Eng. Hani Khairallah
